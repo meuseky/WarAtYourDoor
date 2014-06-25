@@ -1,0 +1,734 @@
+c:\users\kmeuse\documents\visual studio 2012\Projects\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+c:\users\kmeuse\documents\visual studio 2012\Projects\Home Front\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\EnemySprite.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlay.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Button.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScore.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MainMenu.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Settings.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\EnemySprite.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\obj\x86\Debug\ResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlay.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Button.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScore.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MainMenu.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Settings.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\EnemySprite.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+F:\ANewFolder\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+F:\ANewFolder\Home Front\Home Front\Home Front\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ANewFolder\Home Front\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\ANewFolder\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+F:\ANewFolder\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlay.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Button.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScore.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MainMenu.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Settings.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\EnemySprite.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\obj\x86\Debug\ResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\EnemySprite.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+C:\Users\Damian\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Damian\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+C:\Users\Damian\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\tiles4.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+C:\Users\Damian\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\tiles4.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\obj\x86\Debug\ResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+F:\a\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+F:\a\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+F:\a\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+F:\a\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+F:\a\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\a\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+F:\a\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\PlayerSprite.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding04.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding01.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding02.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding03.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding04.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KMeuse\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.exe
+C:\Users\KMeuse\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.pdb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music05.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music06.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music05.wma
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music06.wma
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\FireStart.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeStart.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\obj\x86\Debug\Home Front.csprojResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBack.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBar.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingFill.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin1.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin2.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\SpinBorder.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\LoadingNoise.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\LoadingEnd.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin3.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Bomb.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Bomber.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingFill.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin1.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin2.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\SpinBorder.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin3.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Bomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Bomber.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\FireStart.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeStart.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\LoadingNoise.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\LoadingEnd.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music05.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music06.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Xirod17.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music05.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music06.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpPic05.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBar.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingFill.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Spin1.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Spin2.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\SpinBorder.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Spin3.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Bomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Images\Transition\Bomber.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Death.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\FireStart.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\SmokeStart.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\LoadingNoise.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\SFX\LoadingEnd.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music01.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music02.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music03.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music04.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music05.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music06.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music01.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music02.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music03.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music04.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music05.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Music\Music06.wma
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\obj\x86\Debug\Home Front.exe
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\obj\x86\Debug\Home Front.pdb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\bin\x86\Debug\Content\Fonts\Xirod17.xnb
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Xirod20.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Xirod32.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\06.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\01.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\02.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\03.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\04.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\05.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\07.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\08.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\09.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\10.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\11.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\12.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\13.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\14.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\15.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\16.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\17.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\18.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\19.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\20.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\21.xnb
+C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Cursor.xnb

@@ -1,0 +1,258 @@
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Home_Front
+{
+    static class InPlay
+    {
+        #region Variables
+        public static InPlayState inPlayState;
+        public static Texture2D[] inPlayTexture;
+        public static int currentLevel;
+        public static bool popUpChoice;
+        private static string[] newLevelInfo;
+        #endregion
+
+        #region Methods
+        static InPlay()
+        {
+            inPlayState = InPlayState.NewGame;
+            currentLevel = 0;
+            popUpChoice = true;
+            newLevelInfo = new string[4];
+            newLevelInfo[0] = "blah, blah, blah";
+            newLevelInfo[1] = "blah, blah, blah";
+            newLevelInfo[2] = "blah, blah, blah";
+            newLevelInfo[3] = "blah, blah, blah";
+        }
+
+        public static void Update(GameTime gameTime)
+        {
+            switch (inPlayState)
+            {
+                case InPlayState.NewGame:
+                    Achievements.UpdateAchievements(0);
+                    inPlayState = InPlayState.NewLevel;
+                    break;
+
+                case InPlayState.Playing:
+                    Player.Update(gameTime);
+                    Items.Update(gameTime);
+                    EnemyHandler.Update(gameTime);
+                    QuestHandler.Update(gameTime);
+                    if (InputHandler.KeyPress(1))
+                    {
+                        inPlayState = InPlayState.PlayMenu;
+                    }
+                    //if(Player.
+                    //**Create a check collision method to cycle through Player/Enemy colllsions.
+                    //**Plus Enemy item effects & collision
+                    //**perhaps create a static Effects class for the creation of particle effects
+                    break;
+
+                case InPlayState.PlayMenu:
+                    //Show the player's inventory & status
+                    //Allow return to main menu.
+                    ButtonManager.gameButton[5].Update();
+                    ButtonManager.gameButton[6].Update();
+                    if (ButtonManager.gameButton[5].IsClicked())
+                    {
+                        inPlayState = InPlayState.Playing;
+                    }
+                    if (ButtonManager.gameButton[6].IsClicked())
+                    {
+                        AudioHandler.StopSong(currentLevel);
+                        AudioHandler.PlayEffectInstance(4);
+                        StateHandler.gameState = GameState.Menu;
+                        AudioHandler.PlayEffectInstance(1);
+                    }
+                    break;
+
+                case InPlayState.PopUpScreen:
+                    //Retreive pertainent data from quest class.
+                    //Allow 'choices' if needed
+                    //Route the 'choice' outcomes
+                    //**Perhaps create a static 'Popup' class to pass in quest outcomes to &
+                    //**to hold art assets
+
+                    if (popUpChoice)
+                    {
+                        PopUp.Update();
+                    }
+                    else
+                    {
+                        PopUp.UpdateOutcome();
+                    }
+                    break;
+                    
+                case InPlayState.NewLevel:                    
+                    ButtonManager.gameButton[11].Update();
+                    if (currentLevel == 1)
+                    {
+                        Achievements.UpdateAchievements(1);
+                    }
+                    if (currentLevel >= 4)
+                    {
+                        inPlayState = InPlayState.Playing;
+                    }
+                    else
+                    {
+                        if(ButtonManager.gameButton[11].IsClicked())
+                        {
+                        Player.ResetPosition(Map.startingPoints[currentLevel]);
+                            if (currentLevel != 0)
+                            {
+                                AudioHandler.StopSong(currentLevel);
+                            }
+                        AudioHandler.PlaySong(currentLevel);
+                        inPlayState = InPlayState.Playing;
+                        }
+                    }                    
+                    break;
+
+                case InPlayState.Death:
+                    //Use IOHandler to write score if necessary
+                    //Transition to main menu
+                    //StateHandler.gameState = GameState.Menu;
+                    ButtonManager.gameButton[10].Update();
+                    if (ButtonManager.gameButton[10].IsClicked())
+                    {
+                        QuestHandler.ResetAllQuests();
+                        StateHandler.gameState = GameState.Menu;
+                        inPlayState = InPlayState.Playing;
+                        AudioHandler.PlayEffectInstance(1);
+                    }                    
+                    break;
+
+                case InPlayState.Win:
+                    //As per above but with a different transition.
+                    ButtonManager.gameButton[10].Update();
+                    if (ButtonManager.gameButton[10].IsClicked())
+                    {
+                        Achievements.UpdateAchievements(2);
+                        QuestHandler.ResetAllQuests();                        
+                        AudioHandler.StopSong(currentLevel);
+                        StateHandler.gameState = GameState.Menu;
+                        inPlayState = InPlayState.Playing;
+                        AudioHandler.PlayEffectInstance(1);
+                    }
+                    break;
+            }
+        }
+
+        public static void Draw(SpriteBatch spriteBatch)
+        {
+            switch (inPlayState)
+            {
+                case InPlayState.NewGame:
+                    //**See above (update)
+                    break;
+
+                case InPlayState.Playing:
+                    //spriteBatch.Draw(inPlayTexture[0], new Rectangle(0, 0, 1366, 768), Color.White);
+                    Tile.DrawBorder(spriteBatch);
+                    Map.Draw(spriteBatch);
+                    EnemyHandler.Draw(spriteBatch);
+                    Player.Draw(spriteBatch);
+                    Items.Draw(spriteBatch);
+                    QuestHandler.Draw(spriteBatch);
+                    spriteBatch.Draw(inPlayTexture[2], new Rectangle(0, 0, 1366, 75), Color.White);
+                    spriteBatch.Draw(inPlayTexture[8], new Rectangle(20, 10, 50, 50), Color.White);
+                    spriteBatch.Draw(inPlayTexture[9], new Rectangle(120, 10, 50, 50), Color.White);
+                    spriteBatch.Draw(inPlayTexture[3], new Rectangle(500, 20, 366, 30), Color.White);
+                    spriteBatch.Draw(inPlayTexture[4], new Rectangle(500, 20
+                                                                        , 366 - (int)(366 * (101 - Player.Hunger) / 100), 30)
+                                                                        , Color.White);
+
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], "Life: ", new Vector2(430, 20), Color.Black);
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], "Score: ", new Vector2(1050, 20), Color.Black);
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], "x" + Player.fireworkAmount.ToString(), new Vector2(80, 33), Color.DarkRed);
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], "x" + Player.smokebombAmount.ToString(), new Vector2(180, 33), Color.DarkRed);
+
+                    string scoreString;
+                    scoreString = Player.Score.ToString();
+                    scoreString = scoreString.PadLeft(7, '0');
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], scoreString, new Vector2(1200, 20), Color.Black);
+                    break;
+
+                case InPlayState.PlayMenu:
+                    //spriteBatch.Draw(inPlayTexture[0], new Rectangle(0, 0, 1366, 768), Color.White);
+                    Tile.DrawBorder(spriteBatch);
+                    Map.Draw(spriteBatch);
+                    EnemyHandler.Draw(spriteBatch);
+                    Player.Draw(spriteBatch);
+                    spriteBatch.Draw(inPlayTexture[1], new Rectangle(270, 100, 750, 600), Color.White);
+                    ButtonManager.gameButton[5].Draw(spriteBatch);
+                    ButtonManager.gameButton[6].Draw(spriteBatch);
+
+                    int temp = 0;
+                    foreach (Quest quest in QuestHandler.gameQuests)
+                    {
+                        if (quest.Level == InPlay.currentLevel)
+                        {
+                            if (quest.Active)
+                            {
+                                spriteBatch.DrawString(PopUp.popUpFonts[0], quest.QuestName, new Vector2(325, 225 + (temp * 50)), Color.Black);
+                                spriteBatch.DrawString(PopUp.popUpFonts[0], quest.QuestDescription, new Vector2(500, 225 + (temp * 50)), Color.Black);
+                                temp++;
+                            }
+                        }
+                    }
+                    break;
+
+                case InPlayState.PopUpScreen:
+                    //Draw the Game in the background of the PopUp Box
+                    //spriteBatch.Draw(inPlayTexture[0], new Rectangle(0, 0, 1366, 768), Color.White);
+                    Tile.DrawBorder(spriteBatch);
+                    Map.Draw(spriteBatch);
+                    EnemyHandler.Draw(spriteBatch);
+                    Player.Draw(spriteBatch);                    
+                    if (popUpChoice)
+                    {
+                        PopUp.Draw(spriteBatch);
+                    }
+                    else
+                    {
+                        PopUp.DrawOutcome(spriteBatch);
+                    }
+                    break;
+
+                case InPlayState.NewLevel:
+                    //spriteBatch.Draw(inPlayTexture[0], new Rectangle(0, 0, 1366, 768), Color.White);
+                    Tile.DrawBorder(spriteBatch);
+                    spriteBatch.Draw(inPlayTexture[7], new Rectangle(290, 140, 800, 500), Color.White);
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], "Level " + (currentLevel + 1).ToString(), 
+                        new Vector2(350, 200), Color.Black);
+                    spriteBatch.DrawString(PopUp.popUpFonts[0], newLevelInfo[currentLevel],
+                        new Vector2(350, 250), Color.Black);
+                    ButtonManager.gameButton[11].Draw(spriteBatch);
+                    break;
+
+                case InPlayState.Death:
+                    //spriteBatch.Draw(inPlayTexture[0], new Rectangle(0, 0, 1366, 768), Color.White);
+                    Tile.DrawBorder(spriteBatch);
+                    spriteBatch.Draw(inPlayTexture[5], new Rectangle(290, 140, 800, 500), Color.White);
+                    ButtonManager.gameButton[10].Draw(spriteBatch);
+                    break;
+
+                case InPlayState.Win:
+                    //spriteBatch.Draw(inPlayTexture[0], new Rectangle(0, 0, 1366, 768), Color.White);
+                    Tile.DrawBorder(spriteBatch);
+                    spriteBatch.Draw(inPlayTexture[6], new Rectangle(290, 140, 800, 500), Color.White);
+                    ButtonManager.gameButton[10].Draw(spriteBatch);
+                    break;
+            }
+        }
+
+        public static void Reset()
+        {
+            currentLevel = 0;
+        }
+
+        #endregion
+    }
+}

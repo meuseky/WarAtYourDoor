@@ -1,0 +1,13 @@
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\New folder\Home Front\Home Front\Home FrontContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ANewFolder\Home Front\Home Front\Home FrontContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\Game\Home Front\Home Front\Home FrontContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\Home Front\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\New folder (4)\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front\Home FrontContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\New folder (3)\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\TeamProject\Home Front\Home FrontContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\a\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\New folder (6)\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home FrontContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KMeuse\Desktop\Home Front\Home FrontContent\obj\x86\Debug\Home FrontContent.contentprojResolveAssemblyReference.cache

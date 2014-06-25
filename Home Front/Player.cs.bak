@@ -1,0 +1,345 @@
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Home_Front
+{
+    //**Consider making this class STATIC***
+    static class Player
+    {
+        #region Variables
+        //Current Map Tile
+        public static Point gridPosition;
+        //Vector Relative to Map origin
+        public static Vector2 mapVector;
+        //Vector of screen position
+        public static Vector2 screenVector;
+        //Player collision rectangle
+        private static Rectangle collisionRect;
+        //Direction Moving
+        private static MovementType playerMovement;
+        //Represents facing direction: Up=0,Right=1,Down=2,Left=3
+        private static int faceDirection;
+        //Holds amount moved during each grid traversal.
+        private static int amountMoved;
+        //Scores
+        public static int[] highScores;
+
+        //Animation
+        private static int fps;
+        private static int totalFrame;
+        private static int currentFrame;
+        private static float updateTrigger;
+
+        //Player Stats
+        private static float hunger;
+        public static int smokebombAmount;
+        public static int fireworkAmount;
+        private static int score;
+        private static float scoreTimer;
+        private static bool alive;
+        #endregion
+
+        #region Properties
+        public static float Hunger
+        {
+            get { return hunger; }
+            set { hunger = value; }
+        }
+
+        public static bool Alive
+        {
+            get { return alive; }
+            set { alive = value; }
+        }
+
+        public static int FacingDirection
+        {
+            get { return faceDirection; }
+            set { faceDirection = value; }
+        }
+
+        public static int Score
+        {
+            get { return score; }
+            set { score = value; }
+        }
+
+        public static int[] HighScores
+        {
+            get { return highScores; }
+            set { highScores = value; }
+        }
+        #endregion
+
+        #region Methods
+        static Player()
+        {
+            gridPosition = new Point(2, 2);
+            mapVector = new Vector2(200, 200);
+            screenVector = new Vector2(600, 300);
+
+            amountMoved = 0;
+            collisionRect = new Rectangle((int)mapVector.X + 10, (int)mapVector.Y + 10, 80, 80);
+
+            fps = 6;
+            totalFrame = 6;
+            currentFrame = 0;
+            updateTrigger = 0;
+
+            playerMovement = MovementType.None;
+            faceDirection = 2;
+
+            score = 0;
+            scoreTimer = 1;
+            hunger = 100;
+            alive = true;
+
+            smokebombAmount = 3;
+            fireworkAmount = 3;
+
+            highScores = new int[5];
+            highScores = IOHandler.GetHighScores();
+        }
+
+        public static void Update(GameTime gameTime)
+        {
+            UpdateMovement(gameTime);
+            UpdateAnimation(gameTime);
+            UpdateHunger(gameTime);
+            CheckEnemyCollision();
+            if (alive == false)
+            {
+                UpdateHighScores();
+                Player.Reset();
+                Items.ResetItems();
+                AudioHandler.StopSong(InPlay.currentLevel);
+                InPlay.inPlayState = InPlayState.Death;
+            }
+            if (scoreTimer <= 0)
+            {
+                scoreTimer = 1f;
+                score += 10;
+            }
+            else
+            {
+                scoreTimer -= (float)gameTime.ElapsedGameTime.TotalSeconds;
+            }
+        }
+
+        public static void Draw(SpriteBatch spriteBatch)
+        {
+            PlayerSprite.Draw(spriteBatch, screenVector, currentFrame, faceDirection);
+        }
+
+        public static void ResetPosition(Point newPos)
+        {
+            gridPosition = newPos;
+            mapVector.X = newPos.X * 100;
+            mapVector.Y = newPos.Y * 100;
+        }
+
+        public static void UpdateMovement(GameTime gameTime)
+        {
+            switch (playerMovement)
+            {
+                case MovementType.None:
+                    #region Move In New Direction
+                    currentFrame = 0;
+                    if (InputHandler.newKeyboardState.IsKeyDown(Keys.Up) == true)
+                    {
+                        faceDirection = 0;
+                        if (gridPosition.Y > 0)
+                        {
+                            //***Change depending on final tile layout, so instead of 11 put maxtile size
+                            if (Map.m_Maps[InPlay.currentLevel].MapTile[gridPosition.X, gridPosition.Y - 1] < 11)
+                            {
+                                playerMovement = MovementType.Up;
+                            }
+                        }
+                        AudioHandler.PlayEffect(3);
+                    }
+                    if (InputHandler.newKeyboardState.IsKeyDown(Keys.Right) == true)
+                    {
+                        faceDirection = 1;
+                        if (gridPosition.X < Map.m_Maps[InPlay.currentLevel].Height - 1)
+                        {
+                            //***Change depending on final tile layout
+                            if (Map.m_Maps[InPlay.currentLevel].MapTile[gridPosition.X + 1, gridPosition.Y] < 11)
+                            {
+                                playerMovement = MovementType.Right;
+                            }
+                        }
+                        AudioHandler.PlayEffect(3);
+                    }
+                    if (InputHandler.newKeyboardState.IsKeyDown(Keys.Down) == true)
+                    {
+                        faceDirection = 2;
+                        if (gridPosition.Y < Map.m_Maps[InPlay.currentLevel].Width - 1)
+                        {
+                            //***Change depending on final tile layout
+                            if (Map.m_Maps[InPlay.currentLevel].MapTile[gridPosition.X, gridPosition.Y + 1] < 11)
+                            {
+                                playerMovement = MovementType.Down;
+                            }
+                        }
+                        AudioHandler.PlayEffect(3);
+                    }
+                    if (InputHandler.newKeyboardState.IsKeyDown(Keys.Left) == true)
+                    {
+                        faceDirection = 3;
+                        if (gridPosition.X > 0)
+                        {
+                            //***Change depending on final tile layout
+                            if (Map.m_Maps[InPlay.currentLevel].MapTile[gridPosition.X - 1, gridPosition.Y] < 11)
+                            {
+                                playerMovement = MovementType.Left;
+                            }
+                        }
+                        AudioHandler.PlayEffect(3);
+                    }
+                    #endregion
+                    break;
+                case MovementType.Up:
+
+                    if (amountMoved >= 90)
+                    {
+                        gridPosition.Y--;
+                        mapVector.Y = gridPosition.Y * 100;
+                        amountMoved = 0;
+                        playerMovement = MovementType.None;
+                    }
+                    else
+                    {
+                        mapVector.Y -= gameTime.ElapsedGameTime.Milliseconds / 2;
+                        amountMoved += gameTime.ElapsedGameTime.Milliseconds / 2;
+                    }
+                    break;
+                case MovementType.Right:
+                    if (amountMoved >= 90)
+                    {
+                        gridPosition.X++;
+                        mapVector.X = gridPosition.X * 100;
+                        amountMoved = 0;
+                        playerMovement = MovementType.None;
+                    }
+                    else
+                    {
+                        mapVector.X += gameTime.ElapsedGameTime.Milliseconds / 2;
+                        amountMoved += gameTime.ElapsedGameTime.Milliseconds / 2;
+                    }
+                    break;
+                case MovementType.Down:
+                    if (amountMoved >= 90)
+                    {
+                        gridPosition.Y++;
+                        mapVector.Y = gridPosition.Y * 100;
+                        amountMoved = 0;
+                        playerMovement = MovementType.None;
+                    }
+                    else
+                    {
+                        mapVector.Y += gameTime.ElapsedGameTime.Milliseconds / 2;
+                        amountMoved += gameTime.ElapsedGameTime.Milliseconds / 2;
+                    }
+                    break;
+                case MovementType.Left:
+                    if (amountMoved >= 90)
+                    {
+                        gridPosition.X--;
+                        mapVector.X = gridPosition.X * 100;
+                        amountMoved = 0;
+                        playerMovement = MovementType.None;
+                    }
+                    else
+                    {
+                        mapVector.X -= gameTime.ElapsedGameTime.Milliseconds / 2;
+                        amountMoved += gameTime.ElapsedGameTime.Milliseconds / 2;
+                    }
+                    break;
+            }
+            collisionRect.X = (int)mapVector.X + 10;
+            collisionRect.Y = (int)mapVector.Y + 10;
+        }
+
+        public static void UpdateHunger(GameTime gameTime)
+        {
+            //hunger -= (float)gameTime.ElapsedGameTime.TotalSeconds * 5;
+            //if (hunger <= 0)
+            //{
+            //    alive = false;
+            //}
+            //if (Player.Hunger > 100)
+            //{
+            //    Player.Hunger = 100;
+            //}
+        }
+
+        public static void UpdateAnimation(GameTime gameTime)
+        {
+            updateTrigger += (float)gameTime.ElapsedGameTime.TotalSeconds * fps;
+
+            if (updateTrigger >= 1)
+            {
+                updateTrigger = 0;
+
+                if (playerMovement != MovementType.None)
+                    currentFrame = (currentFrame + 1) % totalFrame;
+            }
+        }
+
+        public static void Reset()
+        {
+            gridPosition = new Point(2, 2);
+            mapVector = new Vector2(200, 200);
+            screenVector = new Vector2(600, 300);
+
+            amountMoved = 0;
+            collisionRect = new Rectangle((int)mapVector.X + 10, (int)mapVector.Y + 10, 80, 80);
+
+            currentFrame = 0;
+            updateTrigger = 0;
+
+            playerMovement = MovementType.None;
+            faceDirection = 2;
+
+            score = 0;
+            hunger = 100;
+            alive = true;
+        }
+
+        public static void CheckEnemyCollision()
+        {
+            foreach (Enemy enemy in EnemyHandler.gameEnemy)
+            {
+                Vector2 tempVec = enemy.ScreenVector - screenVector;
+                float vecLength = (float)tempVec.Length();
+                if ((vecLength < 30) && (Items.smokeIsActive == false))
+                {
+                    AudioHandler.PlayEffectInstance(0);
+                    alive = false;
+                }
+            }
+        }
+
+        public static void UpdateHighScores()
+        {
+            int[] tempArray = new int[6];
+            for (int i = 0; i < 5; i++)
+            {
+                tempArray[i] = highScores[i];
+            }
+            tempArray[5] = score;
+            tempArray = tempArray.OrderByDescending(c => c).ToArray();
+            for (int i = 0; i < 5; i++)
+            {
+                highScores[i] = tempArray[i];
+            }
+        }
+        #endregion
+    }
+}

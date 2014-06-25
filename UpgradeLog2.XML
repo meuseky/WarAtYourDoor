@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Homefront">
+</Property><Property Name="Solution File" Value="\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Homefront.sln">
+</Property><Property Name="User Options File" Value="\\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Homefront.suo">
+</Property><Property Name="Date" Value="12 May 2014">
+</Property><Property Name="Time" Value="11:26">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Homefront.sln" Description="File successfully backed up as \\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Backup\Homefront.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Homefront.suo" Description="File successfully backed up as \\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Backup\Homefront.suo">
+</Event><Event ErrorLevel="2" Project="Home Front" Source="Home Front\Home Front.csproj" Description="Unable to parse project file: \\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home Front\Home Front.csproj">
+</Event><Event ErrorLevel="3" Project="Home Front" Source="Home Front\Home Front.csproj" Description="Not Converted">
+</Event><Event ErrorLevel="2" Project="Home FrontContent" Source="Home FrontContent\Home FrontContent.contentproj" Description="Unable to parse project file: \\int\dfs\StudentHome\ec1311819\Desktop\Home Front2\Home FrontContent\Home FrontContent.contentproj">
+</Event><Event ErrorLevel="3" Project="Home FrontContent" Source="Home FrontContent\Home FrontContent.contentproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Homefront.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Homefront.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Transition\Intro.png</Source>
+      <Name>Images\Transition\Intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Intro.xnb</Output>
+      <Time>2014-05-09T08:58:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\PopUpBack.png</Source>
+      <Name>Images\PopUp\PopUpBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBack.xnb</Output>
+      <Time>2014-05-09T08:58:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\PopUpBox.png</Source>
+      <Name>Images\PopUp\PopUpBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\PopUpBox.xnb</Output>
+      <Time>2014-05-09T08:58:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\HungerBar.png</Source>
+      <Name>Images\InPlay\HungerBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBar.xnb</Output>
+      <Time>2014-05-09T08:58:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\HungerBox.png</Source>
+      <Name>Images\InPlay\HungerBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\HungerBox.xnb</Output>
+      <Time>2014-05-09T08:58:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\StatusBar.png</Source>
+      <Name>Images\InPlay\StatusBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\StatusBar.xnb</Output>
+      <Time>2014-05-09T08:58:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\InPlayBack.png</Source>
+      <Name>Images\InPlay\InPlayBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InPlayBack.xnb</Output>
+      <Time>2014-05-09T08:58:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\SpritePlayer.png</Source>
+      <Name>Images\InPlay\SpritePlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpritePlayer.xnb</Output>
+      <Time>2014-05-09T08:58:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\SpriteEnemy.png</Source>
+      <Name>Images\InPlay\SpriteEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SpriteEnemy.xnb</Output>
+      <Time>2014-05-09T08:58:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\QuestMarker.png</Source>
+      <Name>Images\InPlay\QuestMarker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\QuestMarker.xnb</Output>
+      <Time>2014-05-09T08:58:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Achievements.png</Source>
+      <Name>Images\Menu\Achievements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Achievements.xnb</Output>
+      <Time>2014-05-09T08:58:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\Overlays.png</Source>
+      <Name>Images\InPlay\Overlays</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Overlays.xnb</Output>
+      <Time>2014-05-09T08:58:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\Fire.png</Source>
+      <Name>Images\InPlay\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Fire.xnb</Output>
+      <Time>2014-05-09T08:58:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\Tiles.png</Source>
+      <Name>Images\InPlay\Tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Tiles.xnb</Output>
+      <Time>2014-05-09T08:58:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\Outro.png</Source>
+      <Name>Images\Transition\Outro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Outro.xnb</Output>
+      <Time>2014-05-09T16:16:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\Firework.png</Source>
+      <Name>Images\InPlay\Firework</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Firework.xnb</Output>
+      <Time>2014-05-09T10:25:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Border\BorderBuilding01.png</Source>
+      <Name>Images\Border\BorderBuilding01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding01.xnb</Output>
+      <Time>2014-05-09T10:27:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Border\BorderBuilding02.png</Source>
+      <Name>Images\Border\BorderBuilding02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding02.xnb</Output>
+      <Time>2014-05-09T10:27:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Border\BorderBuilding03.png</Source>
+      <Name>Images\Border\BorderBuilding03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding03.xnb</Output>
+      <Time>2014-05-09T10:27:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Border\BorderBuilding04.png</Source>
+      <Name>Images\Border\BorderBuilding04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Border\BorderBuilding04.xnb</Output>
+      <Time>2014-05-09T10:27:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\SmokeBomb.png</Source>
+      <Name>Images\InPlay\SmokeBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\SmokeBomb.xnb</Output>
+      <Time>2014-05-11T01:58:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\Smoke.png</Source>
+      <Name>Images\InPlay\Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Smoke.xnb</Output>
+      <Time>2014-05-11T01:59:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\MenuTitle.png</Source>
+      <Name>Images\Menu\MenuTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuTitle.xnb</Output>
+      <Time>2014-05-11T02:32:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\ButtonProto.png</Source>
+      <Name>Images\Button\ButtonProto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\ButtonProto.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\Continue.png</Source>
+      <Name>Images\Button\Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Continue.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\HighScore.png</Source>
+      <Name>Images\Button\HighScore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\HighScore.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\NewGame.png</Source>
+      <Name>Images\Button\NewGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\NewGame.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\QuitGame.png</Source>
+      <Name>Images\Button\QuitGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\QuitGame.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\Return.png</Source>
+      <Name>Images\Button\Return</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Return.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\Settings.png</Source>
+      <Name>Images\Button\Settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\Settings.xnb</Output>
+      <Time>2014-05-11T13:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Button\MainMenu.png</Source>
+      <Name>Images\Button\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Button\MainMenu.xnb</Output>
+      <Time>2014-05-11T13:59:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\LoadingBack.png</Source>
+      <Name>Images\Transition\LoadingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBack.xnb</Output>
+      <Time>2014-05-11T21:18:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\LoadingBar.png</Source>
+      <Name>Images\Transition\LoadingBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingBar.xnb</Output>
+      <Time>2014-05-11T21:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\LoadingFill.png</Source>
+      <Name>Images\Transition\LoadingFill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\LoadingFill.xnb</Output>
+      <Time>2014-05-11T21:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\Spin1.png</Source>
+      <Name>Images\Transition\Spin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin1.xnb</Output>
+      <Time>2014-05-11T21:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\Spin2.png</Source>
+      <Name>Images\Transition\Spin2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin2.xnb</Output>
+      <Time>2014-05-11T21:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\SpinBorder.png</Source>
+      <Name>Images\Transition\SpinBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\SpinBorder.xnb</Output>
+      <Time>2014-05-11T21:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\Spin3.png</Source>
+      <Name>Images\Transition\Spin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Spin3.xnb</Output>
+      <Time>2014-05-11T21:52:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\AchievementBox.png</Source>
+      <Name>Images\Menu\AchievementBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\AchievementBox.xnb</Output>
+      <Time>2014-05-11T22:39:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\HighScoreBox.png</Source>
+      <Name>Images\Menu\HighScoreBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\HighScoreBox.xnb</Output>
+      <Time>2014-05-11T22:39:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\InstructionBox.png</Source>
+      <Name>Images\Menu\InstructionBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\InstructionBox.xnb</Output>
+      <Time>2014-05-11T22:39:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\SettingBox.png</Source>
+      <Name>Images\Menu\SettingBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\SettingBox.xnb</Output>
+      <Time>2014-05-11T22:39:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\MenuBack.png</Source>
+      <Name>Images\Menu\MenuBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\MenuBack.xnb</Output>
+      <Time>2014-05-11T23:00:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\Inventory.png</Source>
+      <Name>Images\InPlay\Inventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\Inventory.xnb</Output>
+      <Time>2014-05-11T23:56:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\LoseBack.png</Source>
+      <Name>Images\InPlay\LoseBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\LoseBack.xnb</Output>
+      <Time>2014-05-12T00:10:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\WinBack.png</Source>
+      <Name>Images\InPlay\WinBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\WinBack.xnb</Output>
+      <Time>2014-05-12T00:10:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InPlay\InfoBox.png</Source>
+      <Name>Images\InPlay\InfoBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\InPlay\InfoBox.xnb</Output>
+      <Time>2014-05-12T00:22:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\Bomb.png</Source>
+      <Name>Images\Transition\Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Bomb.xnb</Output>
+      <Time>2014-05-12T01:25:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Transition\Bomber.png</Source>
+      <Name>Images\Transition\Bomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Transition\Bomber.xnb</Output>
+      <Time>2014-05-12T01:23:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DebugFont.spritefont</Source>
+      <Name>Fonts\DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\DebugFont.xnb</Output>
+      <Time>2014-05-09T08:58:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial20.spritefont</Source>
+      <Name>Fonts\Arial20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial20.xnb</Output>
+      <Time>2014-05-09T08:58:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial14.spritefont</Source>
+      <Name>Fonts\Arial14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Arial14.xnb</Output>
+      <Time>2014-05-09T08:58:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Death.wav</Source>
+      <Name>SFX\Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Death.xnb</Output>
+      <Time>2014-05-09T08:58:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Explosions.wav</Source>
+      <Name>SFX\Explosions</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Explosions.xnb</Output>
+      <Time>2014-05-09T08:58:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Firework.wav</Source>
+      <Name>SFX\Firework</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Firework.xnb</Output>
+      <Time>2014-05-09T08:58:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Notification.wav</Source>
+      <Name>SFX\Notification</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Notification.xnb</Output>
+      <Time>2014-05-09T08:58:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Quest.wav</Source>
+      <Name>SFX\Quest</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Quest.xnb</Output>
+      <Time>2014-05-09T08:58:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\SmokeBomb.wav</Source>
+      <Name>SFX\SmokeBomb</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeBomb.xnb</Output>
+      <Time>2014-05-09T08:58:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Bullet.wav</Source>
+      <Name>SFX\Bullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Bullet.xnb</Output>
+      <Time>2014-05-09T08:58:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Logo.wav</Source>
+      <Name>SFX\Logo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Logo.xnb</Output>
+      <Time>2014-05-09T08:58:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\Outro.wav</Source>
+      <Name>SFX\Outro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\Outro.xnb</Output>
+      <Time>2014-05-11T01:49:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\FireStart.wav</Source>
+      <Name>SFX\FireStart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\FireStart.xnb</Output>
+      <Time>2014-05-11T00:55:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\SmokeStart.wav</Source>
+      <Name>SFX\SmokeStart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\SmokeStart.xnb</Output>
+      <Time>2014-05-11T00:55:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\FootStep.wav</Source>
+      <Name>SFX\FootStep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\FootStep.xnb</Output>
+      <Time>2014-05-11T01:47:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\LoadingNoise.wav</Source>
+      <Name>SFX\LoadingNoise</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\LoadingNoise.xnb</Output>
+      <Time>2014-05-11T21:11:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\LoadingEnd.wav</Source>
+      <Name>SFX\LoadingEnd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\SFX\LoadingEnd.xnb</Output>
+      <Time>2014-05-11T21:41:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Music01.mp3</Source>
+      <Name>Music\Music01</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.xnb</Output>
+      <Extra>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music01.wma</Extra>
+      <Time>2014-05-09T08:58:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Music02.mp3</Source>
+      <Name>Music\Music02</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.xnb</Output>
+      <Extra>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music02.wma</Extra>
+      <Time>2014-05-09T08:58:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Music03.mp3</Source>
+      <Name>Music\Music03</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.xnb</Output>
+      <Extra>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music03.wma</Extra>
+      <Time>2014-05-09T08:58:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Music04.mp3</Source>
+      <Name>Music\Music04</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.xnb</Output>
+      <Extra>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music04.wma</Extra>
+      <Time>2014-05-09T08:58:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Music05.mp3</Source>
+      <Name>Music\Music05</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music05.xnb</Output>
+      <Extra>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music05.wma</Extra>
+      <Time>2014-05-11T00:16:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Music06.mp3</Source>
+      <Name>Music\Music06</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music06.xnb</Output>
+      <Extra>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Music\Music06.wma</Extra>
+      <Time>2014-05-11T00:16:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Xirod20.png</Source>
+      <Name>Fonts\Xirod20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Xirod20.xnb</Output>
+      <Time>2014-05-12T22:09:15.1645369+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Xirod32.png</Source>
+      <Name>Fonts\Xirod32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Fonts\Xirod32.xnb</Output>
+      <Time>2014-05-12T22:15:14.5490925+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\06.png</Source>
+      <Name>Images\PopUp\06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\06.xnb</Output>
+      <Time>2014-05-16T07:18:24.5757255+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\01.png</Source>
+      <Name>Images\PopUp\01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\01.xnb</Output>
+      <Time>2014-05-16T07:18:24.2677079+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\02.png</Source>
+      <Name>Images\PopUp\02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\02.xnb</Output>
+      <Time>2014-05-16T07:18:24.2737082+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\03.png</Source>
+      <Name>Images\PopUp\03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\03.xnb</Output>
+      <Time>2014-05-16T07:18:24.2777084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\04.png</Source>
+      <Name>Images\PopUp\04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\04.xnb</Output>
+      <Time>2014-05-16T07:18:24.567725+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\05.png</Source>
+      <Name>Images\PopUp\05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\05.xnb</Output>
+      <Time>2014-05-16T07:18:24.5717253+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\07.png</Source>
+      <Name>Images\PopUp\07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\07.xnb</Output>
+      <Time>2014-05-16T07:18:24.5807258+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\08.png</Source>
+      <Name>Images\PopUp\08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\08.xnb</Output>
+      <Time>2014-05-16T07:18:24.584726+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\09.png</Source>
+      <Name>Images\PopUp\09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\09.xnb</Output>
+      <Time>2014-05-16T07:18:24.5917264+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\10.png</Source>
+      <Name>Images\PopUp\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\10.xnb</Output>
+      <Time>2014-05-16T07:18:24.5957266+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\11.png</Source>
+      <Name>Images\PopUp\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\11.xnb</Output>
+      <Time>2014-05-16T07:18:24.5997269+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\12.png</Source>
+      <Name>Images\PopUp\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\12.xnb</Output>
+      <Time>2014-05-16T07:18:24.6037271+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\13.png</Source>
+      <Name>Images\PopUp\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\13.xnb</Output>
+      <Time>2014-05-16T07:18:24.6097274+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\14.png</Source>
+      <Name>Images\PopUp\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\14.xnb</Output>
+      <Time>2014-05-16T07:18:24.6147277+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\15.png</Source>
+      <Name>Images\PopUp\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\15.xnb</Output>
+      <Time>2014-05-16T07:18:24.6187279+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\16.png</Source>
+      <Name>Images\PopUp\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\16.xnb</Output>
+      <Time>2014-05-16T07:18:24.6247283+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\17.png</Source>
+      <Name>Images\PopUp\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\17.xnb</Output>
+      <Time>2014-05-16T07:18:24.6297286+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\18.png</Source>
+      <Name>Images\PopUp\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\18.xnb</Output>
+      <Time>2014-05-16T07:18:24.6327287+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\19.png</Source>
+      <Name>Images\PopUp\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\19.xnb</Output>
+      <Time>2014-05-16T07:18:24.637729+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\20.png</Source>
+      <Name>Images\PopUp\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\20.xnb</Output>
+      <Time>2014-05-16T07:18:24.6427293+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PopUp\21.png</Source>
+      <Name>Images\PopUp\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\PopUp\21.xnb</Output>
+      <Time>2014-05-16T07:18:24.6457295+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Cursor.png</Source>
+      <Name>Images\Menu\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\Images\Menu\Cursor.xnb</Output>
+      <Time>2014-05-16T07:37:01.6396195+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\KMeuse\Desktop\Home Front\Home FrontContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\KMeuse\Desktop\Home Front\Home Front\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\KMeuse\Desktop\Home Front\Home FrontContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\KMeuse\Desktop\Home Front\Home Front\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-07T18:31:51.7995608+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
